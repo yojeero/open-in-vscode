@@ -1,45 +1,3 @@
-<img width="830px" src="img/test.png">
-
-#### Open files in VSCode on Windows 10-11
-
-Run file "open files in VSCode.ps1" in PowerShell or Terminal for associating any file types you want with VSCode. 
-
-The file\ extensions you want to associate with VSCode you need change here:
-
-```powershell
-
-# Extensions to associate with VS Code
-$Extensions = @(
-    ".c", 
-    ".c++", 
-    ".clj", 
-    ".cpp", 
-    ".cs", 
-    ".css", 
-    ".dart", 
-    ".ex", 
-    ".go", 
-    ".h", 
-    ".java", 
-    ".js", 
-    ".json", 
-    ".kt", 
-    ".md"
-    ".php", 
-    ".rb", 
-    ".rs", 
-    ".scala", 
-    ".sml", 
-    ".swift", 
-    ".ts", 
-    ".yml", 
-)
-
-```  
-
-#### Another way - open Terminal or PowerShell and run command:
-
-```powershell
 
 # =========  CONFIG  ===========
 
@@ -102,4 +60,3 @@ foreach ($Ext in $Extensions) {
 
 Write-Host "`nFile associations created successfully."
 Write-Host "You may need to log out and back in for changes to take effect."
-```   
