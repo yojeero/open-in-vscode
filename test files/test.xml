@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Once upon a time... XML example -->
+<vampire>
+  <name>Dracula</name>
+  <location>Transylvania</location>
+  <dates>
+    <birth>1428</birth>
+    <death>1476</death>
+  </dates>
+  <weaknesses>
+    <item>Sunlight</item>
+    <item>Garlic</item>
+  </weaknesses>
+</vampire>

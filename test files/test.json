@@ -1,0 +1,11 @@
+{
+  "name": "Dracula",
+  "location": "Transylvania",
+  "birth": 1428,
+  "death": 1476,
+  "weaknesses": ["Sunlight", "Garlic"],
+  "metadata": {
+    "discovered": "late",
+    "count": 1
+  }
+}

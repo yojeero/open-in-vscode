@@ -1,0 +1,11 @@
+# Julia mixed test
+struct Vampire
+    location::String
+    birth::Int
+    death::Int
+end
+
+age(v::Vampire) = v.death - v.birth
+
+d = Vampire("Transylvania", 1428, 1476)
+println(d.location * " age: " * string(age(d)))

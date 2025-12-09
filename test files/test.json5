@@ -1,0 +1,42 @@
+{
+  "project": "vscode-theme-test",
+  "language": "json",
+  "items": [
+    { "id": 1, "name": "Dracula", "location": "Transylvania" },
+    { "id": 2, "name": "Van Helsing", "location": "London" },
+    { "id": 3, "name": "Alucard", "location": "Romania" }
+  ],
+  "meta": {
+    "count": 3,
+    "notes": [
+      "note 1",
+      "note 2",
+      "note 3",
+      "note 4",
+      "note 5",
+      "note 6",
+      "note 7",
+      "note 8",
+      "note 9",
+      "note 10",
+      "final note"
+    ]
+  },
+  "pad": "x",
+  "pad": "x",
+  "pad": "x",
+  "pad": "x",
+  "pad": "x",
+  "pad": "x",
+  "pad": "x",
+  "pad": "x",
+  "pad": "x",
+  "pad": "x",
+  "pad": "x",
+  "pad": "x",
+  "pad": "x",
+  "pad": "x",
+  "pad": "x",
+  "pad": "x",
+  "calculation": { "birth": 1428, "death": 1476, "age": 48 }
+}

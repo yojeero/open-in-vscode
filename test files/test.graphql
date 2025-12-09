@@ -1,0 +1,17 @@
+# Once upon a time... GraphQL schema
+type Vampire {
+  id: ID!
+  name: String!
+  location: String
+  birth: Int
+  death: Int
+  weaknesses: [String!]
+  age: Int
+}
+
+type Query {
+  vampire(id: ID!): Vampire
+}
+
+# resolver pseudo description in comments
+# age resolver -> death - birth
