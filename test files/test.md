@@ -1,8 +1,5 @@
-<!--
-  Once a upon a time...
--->
 
-# Vampires
+#### Vampires
 
 | Name       | Value            |
 | ---------- | ---------------- |

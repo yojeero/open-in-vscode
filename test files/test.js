@@ -1,6 +1,5 @@
-/*
- * Once upon a time...
- */
+/* * Once upon a time... */
+
 class Vampire {
   constructor(props) {
     this.location = props.location;
